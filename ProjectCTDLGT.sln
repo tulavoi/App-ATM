@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAppATM", "ProjectAppATM\ProjectAppATM.csproj", "{4029DDAD-18A3-4604-AFBE-2BCA48B99D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAtm", "AppAtm\AppAtm.csproj", "{E7B75EEE-2412-41D9-8900-9066BB5C7E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4029DDAD-18A3-4604-AFBE-2BCA48B99D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4029DDAD-18A3-4604-AFBE-2BCA48B99D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4029DDAD-18A3-4604-AFBE-2BCA48B99D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4029DDAD-18A3-4604-AFBE-2BCA48B99D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B75EEE-2412-41D9-8900-9066BB5C7E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B75EEE-2412-41D9-8900-9066BB5C7E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B75EEE-2412-41D9-8900-9066BB5C7E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B75EEE-2412-41D9-8900-9066BB5C7E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {675FAE5F-0FDD-4D08-97AA-3AD7EEFB0B37}
+	EndGlobalSection
+EndGlobal
